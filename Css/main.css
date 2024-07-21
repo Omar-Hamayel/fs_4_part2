@@ -1,0 +1,15 @@
+.main{
+    background-color: white;
+    text-align: center;
+    p{
+     color: gray;
+    }
+    
+}
+.about{
+    float: left;
+    width: 33.333333%;
+}
+.clear{
+    clear:left;
+}
